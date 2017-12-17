@@ -1413,7 +1413,7 @@ index f8c2c06..2b1c9ca 100644
  # set the values you want for tpcw
 -num.item=1000
 -num.eb=10
-+num.item=916
++num.item=10000
 +num.eb=100
  
  # use the right session string for your servlet container
