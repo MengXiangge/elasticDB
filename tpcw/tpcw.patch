@@ -315,6 +315,31 @@ index 0000000..e03a3ca
 +	return vec;	
 +    }
 +
++    
++    
++	
++	    
++	    
++	    
++		
++
++	    
++	    
++	    
++
++	    
++	    
++	
++	    
++	    
++	    
++	    
++	
++	
++	
++	
++		
++    
 +
 +    public static Vector getNewProducts(String subject) {
 +	Vector vec = new Vector();  // Vector of Books
